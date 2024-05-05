@@ -152,7 +152,7 @@
     "color" : "ffffff"
   },
   "strong" : {
-    "isBold" : true,
+    "isBold" : false,
     "isItalic" : false,
     "isStrikethrough" : false,
     "isUnderline" : false,
